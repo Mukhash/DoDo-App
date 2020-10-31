@@ -27,3 +27,11 @@ Go to the [Releases](https://github.com/Mukhash/dodo/releases) to download the l
   - MVVM Architecture (View - DataBinding - ViewModel - Model)
   - Repository pattern
 - [Material-Components](https://github.com/material-components/material-components-android) - Material design components recyclerView, cardView.
+
+- What's next
+  - Saving states of UI
+  - Animation for recycler view
+  - Timestamps for added tasks
+  - Choice of background colors for list items
+  - Reminders
+  - Recorders
