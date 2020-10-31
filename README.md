@@ -13,4 +13,17 @@ DoDo is a demo application based on modern Android application stacks and MVVM a
 ## Download
 Go to the [Releases](https://github.com/Mukhash/dodo/releases) to download the lastest APK.
 
-<img src="/preview/preview.gif" align="right" width="32%"/>
+<img src="/preview/dodo_preview.gif" align="right" width="32%"/>
+
+## Tech stack & Open-source libraries
+- Minimum SDK level 26
+- [Kotlin](https://kotlinlang.org/) based + [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) for asynchronous.
+- JetPack
+  - LiveData - notify domain layer data to views.
+  - Lifecycle - dispose of observing data when lifecycle state changes.
+  - ViewModel - UI related data holder, lifecycle aware.
+  - Room Persistence - construct a database using the abstract layer.
+- Architecture
+  - MVVM Architecture (View - DataBinding - ViewModel - Model)
+  - Repository pattern
+- [Material-Components](https://github.com/material-components/material-components-android) - Material design components recyclerView, cardView.
