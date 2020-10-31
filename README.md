@@ -5,3 +5,10 @@ DoDo Android application
 DoDo is a demo application based on modern Android application stacks and MVVM architecture.
 </p>
 </br>
+
+<p align="left" width="32%">
+<img src="/preview/dodo_screenshot.jpg"/>
+</p>
+
+## Download
+Go to the [Releases](https://github.com/Mukhash/dodo/releases) to download the lastest APK.
