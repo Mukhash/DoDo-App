@@ -6,8 +6,8 @@ DoDo is a demo application based on modern Android application stacks and MVVM a
 </p>
 </br>
 
-<p align="left" width="32%">
-<img src="/preview/dodo_screenshot.jpg"/>
+<p align="left">
+![](</preview/dodo_screenshot_50%resized.jpg>)
 </p>
 
 ## Download
